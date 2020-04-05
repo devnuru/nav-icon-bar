@@ -1,0 +1,37 @@
+.iconbar-hr{
+	width: 100%;
+	background-color: #555;
+	overflow: auto;
+	margin: 20px;
+}
+.iconbar-hr a{
+	float: left;
+	width: 20%;
+	text-align: center;
+	padding: 12px 0;
+	color: white;
+	transition: all 0.3s ease;
+	font-size: 36px;
+}
+.iconbar-hr a:hover{
+	background-color: #000;
+}
+.active{
+	background-color: #4CAF50;
+}
+.iconbar-vr{
+	width: 90px;
+	background-color: #555;
+	margin-left: 30px;
+}
+.iconbar-vr a{
+	display: block;
+	text-align: center;
+	padding: 12px 0;
+	color: white;
+	transition: all 0.3s ease;
+	font-size: 36px;
+}
+.iconbar-vr a:hover{
+	background-color: #000;
+}
