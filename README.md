@@ -1,2 +1,2 @@
 # nav-icon-bar
-Navigation icon bar
+Simple Vertical & Horizontal Navigation icon bar
